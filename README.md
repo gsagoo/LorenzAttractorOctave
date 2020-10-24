@@ -1,4 +1,4 @@
-# Lorenz Attractor
+# Lorenz Attractor: GNU Octave
 
 Gnu Octave Script: Lorenz Attractor
 (Could be run under Matlab as an alternative)
